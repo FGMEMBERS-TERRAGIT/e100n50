@@ -36,3 +36,5 @@ OBJECT_SHARED Models/Aircraft/mil-mi-8-blue-lowpoly.ac 104.1987043 52.3600026 43
 OBJECT_SHARED Models/Aircraft/mil-mi-8-white-lowpoly.ac 104.1986942 52.359411 434.91 60
 OBJECT_SHARED Models/Airport/tower-ru1.ac 104.2008766 52.3600914 434.87 240.6
 OBJECT_SHARED Models/Airport/hw-hangar-movable-c.xml 104.2001563 52.3639795 431.94 47.3
+OBJECT_SHARED Models/Aircraft/an-12-red.ac 104.1917739 52.3655128 431.78 180
+OBJECT_SHARED Models/Aircraft/an-12-yellow.ac 104.2029906 52.3613806 433.82 69.5
