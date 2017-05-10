@@ -1,1 +1,3 @@
-OBJECT_SHARED Models/Airport/ndb.ac 105.216667 52.95 670.18 180
+OBJECT_SHARED Models/Airport/ndb.ac 105.213919 52.960815 697.93 180
+OBJECT_SHARED Models/Communications/tower-microwave-1.xml 105.210432 52.954145 676.42 0
+OBJECT_SHARED Models/Communications/tower-microwave-1.xml 105.21247 52.960053 694.61 0
